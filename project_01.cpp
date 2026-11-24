@@ -49,7 +49,7 @@ int main() {
         } else if (choice == 5) {
             cout << "Exiting the program" << endl;
             break; 
-        } else {
+        } else  {
             cout << "Invalid choice" << endl;
         }
 
